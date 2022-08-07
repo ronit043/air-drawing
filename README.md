@@ -12,5 +12,4 @@ MediaPipe
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![paint_app_07-09-2021_07_51_16_PM](https://user-images.githubusercontent.com/72982923/183280827-7a42c1bd-702d-4305-895b-476a8e72bbec.png)
